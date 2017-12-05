@@ -14,5 +14,3 @@ for i in range(0, len(firstHalf)):
         count += int(char)
 
 print(2 * count)
-
-

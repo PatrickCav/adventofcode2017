@@ -15,5 +15,3 @@ for char in data:
     previousChar = char
 
 print(count)
-
-

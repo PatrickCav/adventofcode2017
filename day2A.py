@@ -14,5 +14,3 @@ for row in content:
     checkSum += (largest - smallest)
 
 print(checkSum)
-
-
